@@ -27,7 +27,8 @@ p.fecha {
   border-top: black 3px solid;
   text-align: center;
   background-color:grey;
-  
+  padding: 20px;
+  color:white;
 }
 
 time {
