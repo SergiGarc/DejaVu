@@ -23,15 +23,15 @@ p {
   margin-right: 20%;
 }
 
-p.fecha {
+.ffecha {
   border-top: black 3px solid;
   text-align: center;
-  background-color:grey;
   padding: 20px;
-  color:white;
+  margin-top: 50px;
+  padding-top: 10px;
 }
 
-time {
+.fecha {
   padding: 5px;
   background-color: gray;
   color: white;
@@ -40,7 +40,7 @@ time {
   letter-spacing: 5px;
 }
 
-strong {
+.str {
   font-variant: small-caps;
 }
 
@@ -50,11 +50,11 @@ q {
   font-size: 150%;
 }
 
-span.cargo {
+.cargo {
   background-color: white;
   color: red;
 }
 
-span.lugar {
+.lugar {
   color: blue;
 }
